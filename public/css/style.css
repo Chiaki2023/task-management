@@ -1,0 +1,23 @@
+/* friend.blade.php */
+.avatar-sm {
+    width: 2rem;
+    height: 2rem;
+    object-fit: cover;
+}
+
+/* friend.blade.php */
+.icon-sm{
+    font-size: 2rem;
+}
+
+/* profile.blade.php */
+.avatar-lg {
+    width: 9rem;
+    height: 9rem;
+    object-fit: cover;
+}
+
+/* profile.blade.php */
+.icon-lg {
+    font-size: 9rem;
+}
